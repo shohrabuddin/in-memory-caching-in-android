@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shohrab</string>
+    <string name="phone_number">Enter a valid phone number</string>
+    <string name="contact_list">Available contact</string>
+    <string name="show_contact">Show available contact(s)</string>
+    <string name="contact_name">Contact Name</string>
+
+    <string name="permisstion_title_contact">  Contact Permission</string>
+    <string name="permission_desc_contact"> Allows the application to retrieve
+        phone contacts without your intervention. Note we will not make any call.</string>
+
+
+
+</resources>
